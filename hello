@@ -3,4 +3,7 @@ Text document
             md.update(toEncryptString.getBytes());
             byte[] bytes = md.digest();
             StringBuilder sb = new StringBuilder();
-            for(int i=0; i< bytes.length ;i++)
+            for(int i=0; i< bytes.length ;i++) {
+
+
+	}
