@@ -1,1 +1,6 @@
 Text document (change a)
+Text document
+  for(int i=0; i< bytes.length ;i++) {
+
+
+	}
